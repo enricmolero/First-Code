@@ -1,0 +1,22 @@
+.cabecera {
+    background-image: url(./img/header.jpg);
+    background-size: cover;
+    padding: 10px;
+    text-align: center;
+    height: 100%;
+    width: 100%;
+    margin: 0%;
+}
+body {
+    align-items: center;
+    text-align: center;
+}
+footer {
+    background-color: #000000;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
